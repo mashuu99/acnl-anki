@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/mashuu99/acnl-anki/refs/heads/main/img/acnl-anki-logo.png)
+[![Logo](https://raw.githubusercontent.com/mashuu99/acnl-anki/refs/heads/main/img/acnl-anki-logo.png)](https://ankiweb.net/shared/info/1735158222)
 
 # acnl-anki
 Animal Crossing: New Leaf | とびだせどうぶつの森 | Anki Flashcards
