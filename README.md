@@ -8,7 +8,7 @@ Animal Crossing: New Leaf | とびだせどうぶつの森 | Anki Flashcards
 
 ## Last Updates
 🚧 Please note that this deck is not fully completed yet.
-```json
+```
   [29/12/2024] Creation of 39 new cards, update of 3 cards.
   [28/12/2024] Creation of 66 new cards.
 ```
