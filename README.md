@@ -10,6 +10,7 @@ Animal Crossing: New Leaf | とびだせどうぶつの森 | Anki Flashcards
 🚧 Please note that this deck is not fully completed yet.
 ```
   [29/12/2024] Creation of 39 new cards, update of 3 cards.
+  [28/12/2024] Audio readings added on every card.
   [28/12/2024] Creation of 66 new cards.
 ```
 
@@ -20,7 +21,7 @@ I created this Anki deck while playing *Animal Crossing: New Leaf* on the 3DS! I
 💬 Every word has a definition in English, and sometimes in French as well.
 
 ### Further Details:
-*   All cards use a slightly modified version of the Anime Cards template.
+*   All cards use a slightly modified version of the [Anime Cards](https://github.com/friedrich-de/Basic-Mining-Deck/) template.
 *   Some cards include multiple example sentences; just click on the card to view the next one.
 *   Occasionally, the picture or example sentence may be missing because I forgot to take a screenshot. I’ll fix these as soon as I come across the word again in the game.
 ## Sample
