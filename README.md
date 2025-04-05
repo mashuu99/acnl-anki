@@ -9,6 +9,12 @@ Animal Crossing: New Leaf | とびだせどうぶつの森 | Anki Flashcards
 ## Last Updates
 🚧 Please note that this deck is not fully completed yet.
 ```
+  [05/04/2025] Creation of 95 new cards - Major Card formatting modification (All cards)
+    New template addition (Mining JP Modified) :
+    - Pitch accent diagrams
+    - Accurate audio readings (Yomitan)
+    - Click to translate (translation hidden by default)
+    - JLPT Levels & Words usage rankings
   [24/01/2025] Creation of 71 new cards, update of 2 cards.
   [29/12/2024] Creation of 39 new cards, update of 3 cards.
   [28/12/2024] Audio readings added on every card.
@@ -28,6 +34,7 @@ I created this Anki deck while playing *Animal Crossing: New Leaf* on the 3DS! I
 
 ## Deck Statistics
 ```
+DEPRECATED ATM (Will be updated soon)
 Last updated on : 30/12/2024
 ```
 **Kanji Statistics**
